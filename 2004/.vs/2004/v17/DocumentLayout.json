@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\!ItStep\\githab\\test2004git\\2004\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2311F86A-6CBE-4F90-A0D4-7A34BD1CA351}|2004.vcxproj|D:\\!ItStep\\githab\\test2004git\\2004\\2004.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2311F86A-6CBE-4F90-A0D4-7A34BD1CA351}|2004.vcxproj|solutionrelative:2004.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2004.cpp",
+              "DocumentMoniker": "D:\\!ItStep\\githab\\test2004git\\2004\\2004.cpp",
+              "RelativeDocumentMoniker": "2004.cpp",
+              "ToolTip": "D:\\!ItStep\\githab\\test2004git\\2004\\2004.cpp",
+              "RelativeToolTip": "2004.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-20T07:17:27.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
